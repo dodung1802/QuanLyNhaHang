@@ -5,6 +5,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 public class LoaiDoUongAdapter extends BaseAdapter {
+
+
     @Override
     public int getCount() {
         return 0;
